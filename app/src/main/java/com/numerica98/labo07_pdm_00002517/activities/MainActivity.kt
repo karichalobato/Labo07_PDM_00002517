@@ -1,7 +1,8 @@
-package com.numerica98.labo07_pdm_00002517
+package com.numerica98.labo07_pdm_00002517.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.numerica98.labo07_pdm_00002517.R
 
 class MainActivity : AppCompatActivity() {
 
